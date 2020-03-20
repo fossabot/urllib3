@@ -8,6 +8,7 @@
    <p align="center">
       <a href="https://travis-ci.org/urllib3/urllib3"><img alt="Build status on Travis" src="https://travis-ci.org/urllib3/urllib3.svg?branch=master" /></a>
       <a href="https://ci.appveyor.com/project/urllib3/urllib3"><img alt="Build status on AppVeyor" src="https://img.shields.io/appveyor/ci/urllib3/urllib3/master.svg" /></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Furllib3?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Furllib3.svg?type=shield"/></a>
       <a href="https://urllib3.readthedocs.io/en/latest/"><img alt="Documentation Status" src="https://readthedocs.org/projects/urllib3/badge/?version=latest" /></a>
       <a href="https://codecov.io/gh/urllib3/urllib3"><img alt="Coverage Status" src="https://img.shields.io/codecov/c/github/urllib3/urllib3.svg" /></a>
       <a href="https://pypi.org/project/urllib3/"><img alt="PyPI Version" src="https://img.shields.io/pypi/v/urllib3.svg?maxAge=86400" /></a>
@@ -114,3 +115,7 @@ Sponsors include:
 - Google Cloud Platform (2018-2019), sponsored `@theacodes <https://github.com/theacodes>`_'s work on urllib3.
 - Akamai (2017-2018), sponsored `@haikuginger <https://github.com/haikuginger>`_'s work on urllib3
 - Hewlett Packard Enterprise (2016-2017), sponsored `@Lukasa’s <https://github.com/Lukasa>`_ work on urllib3.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Furllib3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Furllib3?ref=badge_large)
